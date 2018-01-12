@@ -21,3 +21,5 @@ _Pro-Tip: Another new way to access Connect content is through WeWork Slack. If 
 **Member Network (MENA)**: The Member Network, known on OneLogin as MENA is the way you can interact with WeWork spaces. Its the tool that enables you to find your nearest WeWork, it let's Community Managers look you up in the system, how you can book spaces, and even buy products at the Honesty Store. 
 
 _Pro-Tip: As a new hire you should get an email that's entitled "Welcome to WeWork" and prompts you to create a username and password, but if you don't get that after a few days from your start, go ahead and submit an HQ IT request and in the title say "New Hire - Need MENA Access."_ 
+
+**New Hire Portal**: Just like Flatiron School, WeWork knows that keeping track of everything that you've got to do is hard. So they are in the process of launching a new hire portal, which is found [here on Connect](https://connect.we.co/display/WO/New+Hire+Portal+Home). While we may use it in the future, for the time being no need to interact with it in any way. Ask Sarah if you have any quetions about this. 
